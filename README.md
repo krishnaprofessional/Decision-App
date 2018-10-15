@@ -6,8 +6,10 @@
 
 3. cd Decision-app.
 
-4. Run "npm run dev-server".
+4. Run "npm install"
 
-5. Open local "http://localhost:8080/" 
+5. Run "npm run dev-server".
+
+6. Open local "http://localhost:8080/" 
 
 Tools Used: React.js, Webpack, Node Package Modules, babel
