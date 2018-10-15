@@ -6,7 +6,7 @@
 
 3. cd Decision-app.
 
-4. Run "npm install"
+4. Run "npm install".
 
 5. Run "npm run dev-server".
 
