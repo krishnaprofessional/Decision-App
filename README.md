@@ -9,3 +9,5 @@
 4. Run "npm run dev-server".
 
 5. Open local "http://localhost:8080/" 
+
+Tools Used: React.js, Webpack, Node Package Modules, babel
