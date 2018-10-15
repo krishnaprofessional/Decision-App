@@ -10,7 +10,7 @@ Configuration:
 
 2. Go-to project directory.
 
-3. cd Decision-app.
+3. And Open Public Folder.
 
 4. Open "index.html" in the browser.
 
