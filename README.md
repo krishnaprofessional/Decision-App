@@ -14,8 +14,6 @@ Configuration:
 
 4. Run "npm install".
 
-5. Run "npm run dev-server".
-
-6. Open local "http://localhost:8080/" 
+5. Open "index.html" in the browser.
 
 Technologies used : React.js, Webpack, Node Package Modules, babel
