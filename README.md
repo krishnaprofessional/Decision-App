@@ -12,8 +12,6 @@ Configuration:
 
 3. cd Decision-app.
 
-4. Run "npm install".
-
-5. Open "index.html" in the browser.
+4. Open "index.html" in the browser.
 
 Technologies used : React.js, Webpack, Node Package Modules, babel
